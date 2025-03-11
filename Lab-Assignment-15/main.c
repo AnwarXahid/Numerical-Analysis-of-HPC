@@ -17,9 +17,12 @@ int main() {
     matrix A = new_matrix(N, N);
 
     // Fill L with random values
+    int seed = 39;
+    srand(seed);
+
     for (int i = 1; i <= N; i++) {
         for (int j = 1; j <= i; j++) {  // Only fill lower triangle
-            mget(L, i, j) = (double)(rand() % 10 + 1);  // Random values between 1 and 10
+            mget(L, i, j) = ((i * j + seed) % 10 + 1);  
         }
     }
 
