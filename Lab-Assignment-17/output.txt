@@ -1,0 +1,19 @@
+Running on 8 processor(s)
+Thread 0 is running on processor 50
+Thread 2 is running on processor 51
+Thread 1 is running on processor 113
+Thread 5 is running on processor 115
+Thread 4 is running on processor 114
+Thread 3 is running on processor 116
+Thread 7 is running on processor 52
+Thread 6 is running on processor 49
+u[0] = 5.335769
+u[1] = 1.651149
+u[2] = 4.297274
+u[3] = 4.544183
+u[4] = 7.226841
+u[5] = 1.246186
+u[6] = 1.504254
+u[7] = 4.077290
+u[8] = 1.384608
+u[9] = 2.238621
