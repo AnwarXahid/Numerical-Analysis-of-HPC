@@ -1,0 +1,2 @@
+Integral result (Parallel Simpson): 2.000000000000
+
