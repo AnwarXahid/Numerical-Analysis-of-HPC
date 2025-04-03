@@ -1,0 +1,1 @@
+Threads: 8 | Integral ≈ 0.4147421761 | Time = 0.014177s
